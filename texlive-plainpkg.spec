@@ -5,7 +5,7 @@
 # catalog-license undef
 # catalog-version undef
 Name:		texlive-plainpkg
-Version:	20121030
+Version:	20131018
 Release:	1
 Summary:	TeXLive plainpkg package
 Group:		Publishing
