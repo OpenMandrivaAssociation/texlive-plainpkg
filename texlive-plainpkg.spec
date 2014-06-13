@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-plainpkg
 Version:	20131018
-Release:	5
+Release:	6
 Summary:	TeXLive plainpkg package
 Group:		Publishing
 URL:		http://tug.org/texlive
