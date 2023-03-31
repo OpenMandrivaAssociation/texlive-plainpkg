@@ -1,6 +1,6 @@
 Name:		texlive-plainpkg
 Version:	27765
-Release:	1
+Release:	2
 Summary:	TeXLive plainpkg package
 Group:		Publishing
 URL:		http://tug.org/texlive
